@@ -110,6 +110,6 @@ Only scan systems you own or have explicit permission to test.
 
 ### Network • Code • Security
 
-**Built by Isaac Silva**
+**Built by Isaac's code**
 
 </div>
